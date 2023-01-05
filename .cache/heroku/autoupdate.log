@@ -1,0 +1,2 @@
+[2023-01-05T00:41:50.394Z] starting `/usr/local/lib/heroku/bin/heroku update --autoupdate` from /usr/local/lib/heroku/bin/run version
+waiting until 2023-01-05T01:41:50.342Z to update
